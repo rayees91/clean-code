@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸í­œûÿÿÿÿ8îæÕ‰é/
+™
+java:S1598"|This file "Call.java" should be located in "WithSolid" directory, not in "C:\Users\ACER\Desktop\zemoso-clean\WithSolid\src".(ÝÞš’8¦ì×‰é/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÝÞš’8¦ì×‰é/
