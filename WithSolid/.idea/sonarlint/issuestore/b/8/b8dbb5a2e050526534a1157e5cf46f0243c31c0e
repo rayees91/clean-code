@@ -1,7 +1,0 @@
-
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ±ÑN8çŠé/
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(©šüøşÿÿÿÿ8çŠé/
- 
-java:S1598"‚This file "Diffphones.java" should be located in "WithSolid" directory, not in "C:\Users\ACER\Desktop\zemoso-clean\WithSolid\src".(İŞš’8·Šé/
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İŞš’8™·Šé/
