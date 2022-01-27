@@ -1,5 +1,5 @@
 package WithSolid;
-class android  implements Applications1,Applications2 {
+class Android  implements Applications1,Applications2 {
     public void whatsapp(){
         System.out.println("Opening Whatsapp");
     }
